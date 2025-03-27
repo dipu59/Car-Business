@@ -2,7 +2,7 @@ import { Star } from "lucide-react";
 
 const CarInfo =[
     {
-        img:"/public/car40.png",
+        img:"car40.png",
         names:"2021 Cadillac Escalade",
         miles:"The 2021 Escalade is a technological showcase and a worthy claimant of the flagship American luxury vehicle title.",
         user:"/public/man50.png",
@@ -12,7 +12,7 @@ const CarInfo =[
         revievCount:98,
     },
     {
-        img:"/public/car41.png",
+        img:"car41.png",
         names:"2021 Hyundai Elantra",
         miles:"If developing a car was a marathon technological showcase, Hyundai didn’t run the last mile with the 2021 Elantra. ",
         user:"/public/man51.png",
@@ -22,7 +22,7 @@ const CarInfo =[
         revievCount:93,
     },
     {
-        img:"/public/car42.png",
+        img:"car42.png",
         names:"2021 Mercedes-Benz GLA250",
         miles:"The new entry point into Mercedes-Benz’s SUV lineup is bigger and improved, but still features a frustrating powertrain. ",
         user:"/public/man52.png",

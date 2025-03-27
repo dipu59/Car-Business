@@ -1,6 +1,6 @@
 const CarInfo =[
     {
-        img:"/public/Img21.png",
+        img:"Img21.png",
         names:"Used 2019 Audi S4 Premium Plus",
         miles:"11 475 Miles",
         awd:"AWD",
@@ -9,7 +9,7 @@ const CarInfo =[
         lavel:"Bestseller"
     },
     {
-        img:"/public/Img22.png",
+        img:"Img22.png",
         names:"2013 Subaru Forester Premium Plus",
         miles:"40 475 Miles",
         awd:"AWD",
@@ -18,7 +18,7 @@ const CarInfo =[
         lavel:"Bestseller"
     },
     {
-        img:"/public/Img20.png",
+        img:"Img20.png",
         names:"Used 2010 BMW X3 Sport package",
         miles:"20 850 Miles",
         awd:"RWD",
