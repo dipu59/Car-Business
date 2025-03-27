@@ -1,0 +1,14 @@
+@import "tailwindcss";
+.custom-shadow {
+    text-shadow: 0px 3px 10px rgba(143, 138, 138, 0.9);
+  }
+  
+  /* Scrollbar Hide */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE & Edge */
+  scrollbar-width: none;  /* Firefox */
+}
